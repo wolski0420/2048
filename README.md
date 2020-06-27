@@ -1,6 +1,14 @@
 # 2048
-This game is a project from C++ course. It has GUI written in Qt.
+My first game with GUI in C++ - 2048. Written in C++ and Qt QUI.
 
-<a download="Game.zip" href="Game.zip" title="2048">
+Here you can 
+<a download="minesweeper.exe" href="minesweeper.exe" title="Minesweeper">
     download
 </a>
+this game in package. After download, you can unzip directory and run 2048.sh file by typing ./2048.sh in terminal.
+
+Screenshot from the game (below):
+
+<img alt="ImageName" src="gamescreen.png">
+
+Have fun! 
