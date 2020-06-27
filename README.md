@@ -9,6 +9,6 @@ this game in package. After download, you can unzip directory and run 2048.sh fi
 
 Screenshot from the game (below):
 
-<img alt="ImageName" src="gamescreen.png" height="50%" width="50%">
+<img alt="ImageName" src="gamescreen.png" height="35%" width="35%">
 
 Have fun! 
